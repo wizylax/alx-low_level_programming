@@ -1,3 +1,6 @@
+#!/bin/bash 
+gcc -c $CFILE
+
 #include <stdlib.h>
 #include <time.h>
 
